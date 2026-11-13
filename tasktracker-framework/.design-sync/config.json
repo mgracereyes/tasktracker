@@ -1,0 +1,61 @@
+{
+  "projectId": "86aa30ad-af33-4fd5-bead-fb6183ee33a4",
+  "shape": "package",
+  "pkg": "aws-task-tracker-frontend",
+  "globalName": "TaskTrackerDS",
+  "srcDir": "src/components",
+  "readmeHeader": ".design-sync/conventions.md",
+  "tsconfig": "tsconfig.json",
+  "cssEntry": "src/styles/global.css",
+  "extraFonts": [
+    ".ds-sync/node_modules/@fontsource/public-sans/latin-400.css",
+    ".ds-sync/node_modules/@fontsource/public-sans/latin-500.css",
+    ".ds-sync/node_modules/@fontsource/public-sans/latin-600.css",
+    ".ds-sync/node_modules/@fontsource/public-sans/latin-700.css"
+  ],
+  "overrides": {
+    "Modal": { "cardMode": "single", "viewport": "760x520" },
+    "Empty": { "cardMode": "column" },
+    "ErrorBox": { "cardMode": "column" },
+    "Field": { "cardMode": "column" },
+    "Loading": { "cardMode": "column" },
+    "PageHead": { "cardMode": "column" },
+    "Progress": { "cardMode": "column" },
+    "Card": { "cardMode": "column" },
+    "ChoiceTiles": { "cardMode": "column" }
+  },
+  "dtsPropsFor": {
+    "AwsLogo": "",
+    "ChoiceTiles": "/** Group label shown above the tiles, e.g. 'Leave type'. */ legend: string; /** Radio group name; unique per form. */ name: string; /** Value of the selected tile. */ value: string; /** Tiles in display order (two per row): bold label plus an optional muted hint line. */ options: { value: string; label: string; hint?: string }[]; onChange: (value: string) => void;",
+    "Card": "/** Card heading (text or inline JSX such as a name plus a Pill). */ title?: React.ReactNode; /** Right-aligned header content, e.g. a link button. */ actions?: React.ReactNode; children: React.ReactNode; /** Extra class names on the <section>. */ className?: string;",
+    "DateRange": "/** Initial start date, 'YYYY-MM-DD'. */ from: string; /** Initial end date, 'YYYY-MM-DD'. */ to: string; /** Called with the picked range when Apply is pressed. Apply is disabled for an empty, reversed, or longer-than-92-day range. */ onApply: (from: string, to: string) => void; /** Button text. Default 'Apply'. */ applyLabel?: string;",
+    "Empty": "/** Short empty-state sentence, e.g. 'No entries on this day.' */ children: React.ReactNode;",
+    "ErrorBox": "/** Error text; renders nothing when null or empty. */ msg: string | null;",
+    "Field": "/** Small label shown above the control. */ label: string; /** The control: <input>, <select> or <textarea> (styled globally). */ children: React.ReactNode;",
+    "HoverSelect": "/** Label shown above the button. */ label: string; /** Currently selected option value. */ value: string | number; /** Options; consecutive options sharing a group get one group heading. */ options: { value: string | number; label: string; hint?: string; group?: string; disabled?: boolean }[]; onChange: (value: string | number) => void; /** Button text when no option matches value. Default 'All'. */ placeholder?: string; /** Highlights the button to show an active filter. */ active?: boolean;",
+    "Loading": "",
+    "Modal": "/** Dialog heading and accessible label. */ title: string; /** Called on Escape, backdrop click or the close button. */ onClose: () => void; children: React.ReactNode; /** Footer row, usually buttons: <button className=\"btn ghost\">Cancel</button><button className=\"btn\">Save</button>. */ footer?: React.ReactNode; /** Wider dialog for tables or task grids. */ wide?: boolean;",
+    "PageHead": "/** Page title (h1). */ title: string; /** One-line description under the title. */ sub?: string; /** Right-aligned page actions, usually buttons. */ actions?: React.ReactNode;",
+    "Pill": "/** Colour: grey (default, neutral), ok (green), warn (amber), bad (red), blue (info). */ tone?: 'grey' | 'ok' | 'warn' | 'bad' | 'blue'; children: React.ReactNode;",
+    "Progress": "/** Current amount, e.g. minutes logged. */ value: number; /** Amount that fills the bar, e.g. 480 for an 8-hour day. */ max: number; /** Bar colour: task (blue, default) or meeting (orange). */ kind?: 'task' | 'meeting'; /** Leave (VL / SL) amount in the same unit as value, drawn as a gray segment after the work segment. Default 0. */ leave?: number;",
+    "Tabs": "/** Tab list in display order. */ tabs: { id: string; label: string }[]; /** id of the selected tab. */ value: string; onChange: (id: string) => void;"
+  },
+  "componentSrcMap": {
+    "AwsLogo": "src/components/Icons.tsx",
+    "ChoiceTiles": "src/components/ui.tsx",
+    "Card": "src/components/ui.tsx",
+    "DateRange": "src/components/DateRange.tsx",
+    "Empty": "src/components/ui.tsx",
+    "ErrorBox": "src/components/ui.tsx",
+    "Field": "src/components/ui.tsx",
+    "HoverSelect": "src/components/HoverSelect.tsx",
+    "Loading": "src/components/ui.tsx",
+    "Modal": "src/components/ui.tsx",
+    "PageHead": "src/components/ui.tsx",
+    "Pill": "src/components/ui.tsx",
+    "Progress": "src/components/ui.tsx",
+    "Tabs": "src/components/ui.tsx",
+    "Icon": null,
+    "Layout": null
+  }
+}
