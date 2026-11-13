@@ -1,0 +1,76 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2134[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5199[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/.review.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/AwsLogo/AwsLogo.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Card/Card.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ChoiceTiles/ChoiceTiles.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/DateRange/DateRange.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Empty/Empty.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ErrorBox/ErrorBox.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Field/Field.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/HoverSelect/HoverSelect.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Loading/Loading.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Modal/Modal.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/PageHead/PageHead.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Pill/Pill.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Progress/Progress.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Tabs/Tabs.html[22m
+[2m2:21:00 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/_screenshots/.contact-sheet-1.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/AwsLogo/AwsLogo.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Card/Card.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ChoiceTiles/ChoiceTiles.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/DateRange/DateRange.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Empty/Empty.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ErrorBox/ErrorBox.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Field/Field.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/HoverSelect/HoverSelect.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Loading/Loading.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Modal/Modal.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/PageHead/PageHead.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Pill/Pill.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Progress/Progress.html[22m
+[2m2:21:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Tabs/Tabs.html[22m
+[2m2:21:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/.review.html[22m
+[2m2:21:14 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/_screenshots/.contact-sheet-1.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/.review.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/AwsLogo/AwsLogo.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Card/Card.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ChoiceTiles/ChoiceTiles.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/DateRange/DateRange.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Empty/Empty.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/ErrorBox/ErrorBox.html[22m
+[2m2:31:02 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Field/Field.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/HoverSelect/HoverSelect.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Loading/Loading.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Modal/Modal.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/PageHead/PageHead.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Pill/Pill.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Progress/Progress.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/components/general/Tabs/Tabs.html[22m
+[2m2:31:03 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mds-bundle/_screenshots/.contact-sheet-1.html[22m
+node:internal/fs/watchers:323
+    const error = new UVException({
+                  ^
+
+Error: EBUSY: resource busy or locked, watch 'C:\Users\mary.delosreyes\work\tasktracker\tasktracker-framework\ds-bundle\_ds_bundle.css'
+    at FSWatcher.<computed> (node:internal/fs/watchers:323:19)
+    at Object.watch (node:fs:3062:36)
+    at createFsWatchInstance (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:42780:17)
+    at setFsWatchListener (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:42827:15)
+    at NodeFsHandler._watchWithNodeFs (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:42982:14)
+    at NodeFsHandler._handleFile (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:43046:23)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:43288:21)
+Emitted 'error' event on FSWatcher instance at:
+    at FSWatcher._handleError (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:44481:10)
+    at NodeFsHandler._addToNodeFs (file:///C:/Users/mary.delosreyes/work/tasktracker/tasktracker-framework/node_modules/vite/dist/node/chunks/dep-BK3b2jBa.js:43296:18) {
+  errno: -4082,
+  syscall: 'watch',
+  code: 'EBUSY',
+  path: 'C:\\Users\\mary.delosreyes\\work\\tasktracker\\tasktracker-framework\\ds-bundle\\_ds_bundle.css',
+  filename: 'C:\\Users\\mary.delosreyes\\work\\tasktracker\\tasktracker-framework\\ds-bundle\\_ds_bundle.css'
+}
+
+Node.js v26.7.0
